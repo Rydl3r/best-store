@@ -30,22 +30,22 @@ const Catalogue = (): JSX.Element => {
     const defaultItems =
         [
             {
-                image: "https://images.pizza33.ua/products/product/m0JGsuHe13JdmMiCYuSNMtoOrcWY0tWU.jpg",
+                image: "https://w7.pngwing.com/pngs/448/578/png-transparent-pizza-margherita-italian-cuisine-chicago-style-pizza-pepperoni-pizza.png",
                 name: "Pepperoni",
                 price: 300
             },
             {
-                image: "https://images.pizza33.ua/ingredients/iwwPeswFFRjYqphyDvCxCYHwvHH8cZax.jpg",
+                image: "http://pngimg.com/uploads/pizza/pizza_PNG7149.png",
                 name: "Friday",
                 price: 280
             },
             {
-                image: "https://images.pizza33.ua/products_for_catalog/F87hxnCbFeBIeznrX4rJZtvODfoMLMuD.jpg",
+                image: "https://w7.pngwing.com/pngs/756/160/png-transparent-new-york-style-pizza-italian-cuisine-take-out-pasta-pizza.png",
                 name: "Emilia",
                 price: 400
             },
             {
-                image: "https://images.pizza33.ua/products/menu/8CIgcf77NzAQfLmhNisp2DyHVqvGiZ93.png",
+                image: "https://img2.freepng.ru/20180528/rcf/kisspng-pizza-hut-street-food-take-out-fast-food-delivery-pizza-5b0c43e365fb87.7995701115275304674177.jpg",
                 name: "Cheese",
                 price: 250
             }, {
