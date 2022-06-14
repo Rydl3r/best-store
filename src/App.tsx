@@ -1,19 +1,10 @@
 import HomePage from "./components/HomePage";
 import Cart from "./components/Cart";
 
-
-import {
-  HashRouter as Router,
-  Switch,
-  Route,
-  Link
-} from "react-router-dom";
-
-
+import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 function App() {
   return (
-
     <Router>
       <div className="App">
         <Switch>
@@ -26,8 +17,6 @@ function App() {
         </Switch>
       </div>
     </Router>
-
-
   );
 }
 
